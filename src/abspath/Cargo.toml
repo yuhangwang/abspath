@@ -1,0 +1,7 @@
+[package]
+name = "abspath"
+version = "0.1.0"
+authors = ["Steven (Yuhang) Wang"]
+
+[dependencies]
+clap = "2"
